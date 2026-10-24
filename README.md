@@ -16,6 +16,10 @@ This is my build log. Marketing is moving from using tools to making them. I'm g
 - **Content engines.** AI video pipelines for YouTube, from script to voice to final cut.
 - **Digital products.** Planners and templates published on Amazon KDP and Etsy.
 
+## Repos
+
+- [claude-skills](https://github.com/iconiksocials/claude-skills): reusable Claude skills that turn repeat work into a one-step process
+
 ## Selected work
 
 **Event Playbook**
